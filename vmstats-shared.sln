@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vmstats-shared", "vmstats-shared\vmstats-shared.csproj", "{CF0B84D7-AF9A-4387-82A1-B8B679CC6F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0B84D7-AF9A-4387-82A1-B8B679CC6F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0B84D7-AF9A-4387-82A1-B8B679CC6F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0B84D7-AF9A-4387-82A1-B8B679CC6F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0B84D7-AF9A-4387-82A1-B8B679CC6F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E1586F-D76F-4A4A-92F2-DF92B8F47D83}
+	EndGlobalSection
+EndGlobal
