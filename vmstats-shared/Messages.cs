@@ -33,6 +33,11 @@ namespace vmstats_shared
         public class Stopping { }
 
         /// <summary>
+        /// Message that signals a MetricStoeActor is finished processing and is stopping
+        /// </summary>
+        public class MetricStoreActorStopping { }
+
+        /// <summary>
         /// Message that signals the current processing of the directory has found no files
         /// </summary>
         public class NoMoreMetrics { }
